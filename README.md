@@ -4,5 +4,5 @@
 
 ### Currently being developed by:
 * 1423
-* 
+
 **Live Website hosted by** [GitHub](https://gasasteroid.ga/)
