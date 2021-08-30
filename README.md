@@ -1,4 +1,4 @@
-![DrugHub Logo Image](https://raw.githubusercontent.com/Encryptofied/gasasteroid.ga/main/img/logo-transparent.png)
+![DrugHub Logo Image](https://raw.githubusercontent.com/Encryptofied/gasasteroid.ga/main/img/logo.png)
 ## Welcome to **DrugHub**
 *DrugHub does not actually sell any illegal/controlled substances.*
 
