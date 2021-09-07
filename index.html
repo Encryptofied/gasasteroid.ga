@@ -29,7 +29,7 @@
   var pass = document.getElementById('password').value
   if (user == "root" && pass == "root") {
     window.open("main.html");
-    alert('Correct credentials!')
+    myWindow.close();
   } else {
     alert('Incorrect username or password.')
   }
