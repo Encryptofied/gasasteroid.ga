@@ -28,8 +28,7 @@
   var user = document.getElementById('username').value
   var pass = document.getElementById('password').value
   if (user == "root" && pass == "root") {
-    window.open("main.html");
-    myWindow.close();
+    window.location.replace("https://gasasteroid.ga/main.html");
   } else {
     alert('Incorrect username or password.')
   }
